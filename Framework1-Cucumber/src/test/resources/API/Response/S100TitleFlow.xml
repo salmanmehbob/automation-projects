@@ -1,0 +1,24 @@
+<STAT>
+    <Header>
+        <AckRef>1</AckRef>
+        <Created>2023/11/30 13:00:46</Created>
+        <Format>STAT</Format>
+        <GMTOffset>-6</GMTOffset>
+        <SourceApp>STATS</SourceApp>
+        <SourceID>75000</SourceID>
+        <SourceVer>1.0</SourceVer>
+        <Version>1.0</Version>
+        <UserName>STAT USER</UserName>
+        <CreatedBy>3887</CreatedBy>
+    </Header>
+    <Transaction>
+        <TransactionID>JAZ-2023-081237</TransactionID>
+        <ProviderOrderNbr>TCE-4591-TX</ProviderOrderNbr>
+
+
+    </Transaction>
+    <Acknowledgement>
+        <Received>2023/11/30 01:00:46</Received>
+        <Validated>Yes</Validated>
+    </Acknowledgement>
+</STAT>

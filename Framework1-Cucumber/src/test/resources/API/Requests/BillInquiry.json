@@ -1,0 +1,19 @@
+{
+  "osType":"string",
+  "deviceId":"string",
+  "osVersion":"string",
+  "fcmToken":"string",
+  "processId":"string",
+  "flowName":"string",
+  "identity":"971564608322",
+  "lang":"en",
+  "pin":"string",
+  "transactionId":"string",
+  "userToken":"string",
+  "msisdn":"971564608322",
+  "buildNumber":"155.0",
+  "paymentCategory":"BILLS",
+  "linkedAccount":false,
+  "accountNumber":"0551234567",
+  "identifier":"DU_POSTPAID"
+}

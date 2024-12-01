@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><STAT>
+    <Transaction>
+        <TransactionID>86259-JAZ-2023</TransactionID>
+        <ClientID>2005</ClientID>
+        <PropertyList>
+            <Count>1</Count>
+            <Property>
+                <UniqueID>1</UniqueID>
+                <Type>SFR</Type>
+                <Location>Bexar</Location>
+                <Addr1>49519 Amhurst</Addr1>
+                <City>SAN ANTONIO</City>
+                <State>TX</State>
+                <Zip>78213</Zip>
+                <SpecialCircumstances>Trustee Transfer</SpecialCircumstances>
+            </Property>
+        </PropertyList>
+        <ProductList>
+            <Count>1</Count>
+            <Product>
+                <UniqueID>1</UniqueID>
+                <ProviderID>123132</ProviderID>
+                <ProductCode>TCP</ProductCode>
+                <DueDate>2016/11/22 00:00:00</DueDate>
+                <Event>
+                    <Code>S100</Code>
+                    <EventDate>2016/11/15 07:04:58</EventDate>
+                    <EventID>313212312</EventID>
+                    <Comment>Approve my request</Comment>
+                </Event>
+                <DocumentList>
+                    <Count>1</Count>
+                    <Document>
+                        <Description>Product Document</Description>
+                        <DocDate>2002/12/03 09:09:00</DocDate>
+                        <DocName>Final Inspection</DocName>
+                        <FileName>rad7FCE5.PDF</FileName>
+                        <FileType>PDF</FileType>
+                        <AttachmentType>Invoice</AttachmentType>
+                        <Content>JVBERi0xLjIgDSXi48/TDQogDTggMCBvYmoNPDwNL0xlbmd0aCA5ID AgUg0vRmlsdGVyIC9GbGF0ZURlY29kZSANPj4Nc3RyZWFtDQpIiT2NQQrCMBRET/DvMEtdGL+hVbqtadeiuUAIqShtE9IWr+83CxkYhjcw01pqGBduVA1YQ4yf8hN07BknLXCgAyuuzpVkD1a6KfGD3cNNaQy4mR4m+m0K84ohZtyDG7vrn7n1FWekLae4hEXtYd8kI0rXciWnxX1xGUXpO0tfq84n/Q1lbmRzdHJlYW0NZW5kb2JqDTkgMCBvYmoNMTMxDWVuZG9iag00IDAgb2JqDTw8DS9UeXBlIC9QYWdlDS9QYXJlbnQgNSAwIFINL1Jlc291cmNlcyA8PA0vRm9udCA8PA0vRjAgNiAwIFIgDT4+DS9Qcm9jU2V0IDIgMCBSDT4+DS9Db250ZW50cyA4IDAgUg0+Pg1lbmRvYmoNNiAwIG9iag08PA0vVHlwZSAvRm9udA0vU3VidHlwZSAvVHJ1ZVR5cGUNL05hbWUgL0YwDS9CYXNlRm9udCAvVGltZXNOZXdSb21hbg0vRmlyc3RDaGFyIDMyDS9MYXN0Q2hhciAyNTUNL1dpZHRocyBbIDI1MCAzMzMgNDA4IDUwMCA1MDAgODMzIDc3OCAxODAgMzMzIDMzMyA1MDAgNTY0IDI1MCAzMzMgMjUwIDI3OCANNTAwIDUwMCA1MDAgNTAwIDUwMCA1MDAgNTAwIDUwMCA1MDAgNTAwIDI3OCAyNzggNTY0IDU2NCA1NjQgNDQ0IA05MjEgNzIyIDY2NyA2NjcgNzIyIDYxMSA1NTYgNzIyIDcyMiAzMzMgMzg5IDcyMiA2MTEgODg5IDcyMiA3MjIgDTU1NiA3MjIgNjY3IDU1NiA2MTEgNzIyIDcyMiA5NDQgNzIyIDcyMiA2MTEgMzMzIDI3OCAzMzMgNDY5IDUwMCANMzMzIDQ0NCA1MDAgNDQ0IDUwMCA0NDQgMzMzIDUwMCA1MDAgMjc4IDI3OCA1MDAgMjc4IDc3OCA1MDAgNTAwIA01MDAgNTAwIDMzMyAzODkgMjc4IDUwMCA1MDAgNzIyIDUwMCA1MDAgNDQ0IDQ4MCAyMDAgNDgwIDU0MSA3NzggDTUwMCA3NzggMzMzIDUwMCA0NDQgMTAwMCA1MDAgNTAwIDMzMyAxMDAwIDU1NiAzMzMgODg5IDc3OCA2MTEgNzc4IA03NzggMzMzIDMzMyA0NDQgNDQ0IDM1MCA1MDAgMTAwMCAzMzMgOTgwIDM4OSAzMzMgNzIyIDc3OCA0NDQgNzIyIA0yNTAgMzMzIDUwMCA1MDAgNTAwIDUwMCAyMDAgNTAwIDMzMyA3NjAgMjc2IDUwMCA1NjQgMzMzIDc2MCA1MDAgDTQwMCA1NDkgMzAwIDMwMCAzMzMgNTc2IDQ1MyAyNTAgMzMzIDMwMCAzMTAgNTAwIDc1MCA3NTAgNzUwIDQ0NCANNzIyIDcyMiA3MjIgNzIyIDcyMiA3MjIgODg5IDY2NyA2MTEgNjExIDYxMSA2MTEgMzMzIDMzMyAzMzMgMzMzIA03MjIgNzIyIDcyMiA3MjIgNzIyIDcyMiA3MjIgNTY0IDcyMiA3MjIgNzIyIDcyMiA3MjIgNzIyIDU1NiA1MDAgDTQ0NCA0NDQgNDQ0IDQ0NCA0NDQgNDQ0IDY2NyA0NDQgNDQ0IDQ0NCA0NDQgNDQ0IDI3OCAyNzggMjc4IDI3OCANNTAwIDUwMCA1MDAgNTAwIDUwMCA1MDAgNTAwIDU0OSA1MDAgNTAwIDUwMCA1MDAgNTAwIDUwMCA1MDAgNTAwIA1dDS9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nDS9Gb250RGVzY3JpcHRvciA3IDAgUg0+Pg1lbmRvYmoNNyAwIG9iag08PA0vVHlwZSAvRm9udERlc2NyaXB0b3INL0ZvbnROYW1lIC9UaW1lc05ld1JvbWFuDS9GbGFncyAzNA0vRm9udEJCb3ggWyAtMjUwIC0yMTYgMTE2NSAxMDAwIF0NL01pc3NpbmdXaWR0aCAzMjMNL1N0ZW1WIDczDS9TdGVtSCA3Mw0vSXRhbGljQW5nbGUgMA0vQ2FwSGVpZ2h0IDg5MQ0vWEhlaWdodCA0NDYNL0FzY2VudCA4OTENL0Rlc2NlbnQgLTIxNg0vTGVhZGluZyAxNDkNL01heFdpZHRoIDk3MQ0vQXZnV2lkdGggNDAxDT4</Content>
+                        <EncodeType>Base64</EncodeType>
+                    </Document>
+                </DocumentList>
+            </Product>
+        </ProductList>
+        <LoanList>
+            <Count>1</Count>
+            <Loan>
+                <UniqueId>1</UniqueId>
+                <Amount>300000.0</Amount>
+                <Purpose>Refinance</Purpose>
+                <Type>Other</Type>
+            </Loan>
+        </LoanList>
+        <PartyList>
+            <Count>2</Count>
+            <Party>
+                <UniqueID>1</UniqueID>
+                <Type>BORR</Type>
+                <FirstName>Hector</FirstName>
+                <LastName>Wolf</LastName>
+                <DayPhone>941-312-7460</DayPhone>
+                <EvenPhone>941-312-7460</EvenPhone>
+                <EMail>hector@propertysource.app</EMail>
+                <Zip>78213</Zip>
+                <SSN/>
+            </Party>
+            <Party>
+                <UniqueID>1</UniqueID>
+                <Type>SELL</Type>
+                <FirstName>Imran</FirstName>
+                <LastName>Hosssain</LastName>
+                <DayPhone>941-312-7460</DayPhone>
+                <EvenPhone>941-312-7460</EvenPhone>
+                <EMail>imran@propertysource.app</EMail>
+                <Zip>78213</Zip>
+                <SSN/>
+            </Party>
+        </PartyList>
+    </Transaction>
+</STAT>
